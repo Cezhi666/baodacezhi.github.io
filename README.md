@@ -96,7 +96,7 @@
                 <div class="character-container" id="target-wrapper">
                     <img id="player-one" 
                          class="character-image" 
-                         src="uploaded:0f95b5be287e7d2104ab3a17bd98279f.png-d35ffc68-e2c3-4b98-b88a-cfb7b5df6c0c" 
+                         src="0f95b5be287e7d2104ab3a17bd98279f.png" 
                          alt="一号 (目标)">
                 </div>
                 <div class="text-lg font-semibold mt-2">一号 (Target)</div>
