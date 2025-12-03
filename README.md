@@ -78,7 +78,7 @@
                 <div class="character-container">
                     <img id="player-two" 
                          class="character-image" 
-                         src="uploaded:6647236adfa9a93194f956e4f7cd36ef.png-d39abe0e-77f7-41ae-a99b-34fde43ba6b1" 
+                         src="6647236adfa9a93194f956e4f7cd36ef.png" 
                          alt="二号 (射击者)">
                 </div>
                 <div class="text-lg font-semibold mt-2">二号 (Shooter)</div>
